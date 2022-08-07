@@ -21,3 +21,13 @@
    <br>
 </div>
 </h1>
+
+
+## Why NixOS?
+
+- Declarative package and configuration management
+- Lots of packages
+- Rollbacks of configurations (When you mess something up, like the kernel)
+- Reliable system
+- Reproducible environment
+
