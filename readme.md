@@ -22,6 +22,15 @@
 </div>
 </h1>
 
+  
+## Programs
+
+  - OS : NixOs
+  - WM : Openbox
+  - Editor : Nvcodark
+  - Terminal : Alacritty
+  - Shell : Hilbish
+  - Launcher : Rofi
 
 ## Why NixOS?
 
