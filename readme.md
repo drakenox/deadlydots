@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67" width="100px" /> <br>
+  <img src="https://github.com/owl4ce/dotfiles/blob/ng/EXTRA_JOYFUL/.config/neofetch/images/artix.png" width="100px" /> <br>
   Synvatto's Artix Dotfiles <br>
   <img src="./assets/9CEF2192-7F03-4E82-9F5D-5A60B3E568C4.png" width="600px" /> <br>
   <div align="center">
