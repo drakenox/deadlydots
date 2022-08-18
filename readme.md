@@ -25,18 +25,18 @@
   
 ## Programs
 
-  - OS : NixOs
-  - WM : Openbox
-  - Editor : Nvcodark
-  - Terminal : Alacritty
-  - Shell : Hilbish
+  - OS : Artix
+  - WM : Awesome
+  - Editor : NvChad
+  - Terminal : Westerm
+  - Shell : Zsh
   - Launcher : Rofi
 
-## Why NixOS?
+## Why Artix?
 
-- Declarative package and configuration management
-- Lots of packages
-- Rollbacks of configurations (When you mess something up, like the kernel)
-- Reliable system
-- Reproducible environment
+- Arch Based
+- Systemd Free
+- Lightweight 
+- Rolling-release
+- Artix + Arch repos with Aur Support.
 
