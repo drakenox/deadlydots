@@ -52,7 +52,7 @@ Special thanks to [alpha](https://github.com/alphatechnolog) and [saimoomedits](
 
 <br>
 
-<img src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg" width=350 align="right">
+<img src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg" width=250 align="right">
 
 
 
