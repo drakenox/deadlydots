@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://github.com/synvatto/artixdots/blob/main/assets/pngwing.com.png" width="100px" /> <br>
+  <img src="https://github.com/synvatto/artixdots/blob/main/assets/pngwing.com.png" width="200px" /> <br>
   Deadly Dotfiles<br>
   <img src="./assets/9CEF2192-7F03-4E82-9F5D-5A60B3E568C4.png" width="600px" /> <br>
   <div align="center">
