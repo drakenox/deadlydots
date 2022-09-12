@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <img src="https://github.com/owl4ce/dotfiles/blob/ng/EXTRA_JOYFUL/.config/neofetch/images/artix.png" width="100px" /> <br>
-  Synvatto's Artix Dotfiles <br>
+  <img src="https://github.com/synvatto/artixdots/blob/main/assets/pngwing.com.png" width="100px" /> <br>
+  Deadly Dotfiles<br>
   <img src="./assets/9CEF2192-7F03-4E82-9F5D-5A60B3E568C4.png" width="600px" /> <br>
   <div align="center">
 
@@ -25,18 +25,10 @@
   
 ## Programs
 
-  - OS : Artix
+  - OS : Kali
   - WM : Awesome
-  - Editor : NvChad
+  - Editor : Neovim
   - Terminal : Westerm
   - Shell : Zsh
   - Launcher : Rofi
-
-## Why Artix?
-
-- Arch Based
-- Systemd Free
-- Lightweight 
-- Rolling-release
-- Artix + Arch repos with Aur Support.
 
