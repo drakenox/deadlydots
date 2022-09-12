@@ -77,4 +77,41 @@ git clone -b awesomewm https://github.com/synvatto/deadlydots
 cd deadlydots
 ```
 
+### Requirements
+
+Then make sure you have the next requirements installed
+
+#### Fonts
+
+| **font** | **utility** |
+|----------|-------------|
+|[Product Sans (Google Sans)](https://www.cufonfonts.com/font/google-sans)|Main UI Font|
+|[Iosevka Nerd Font](https://nerdfonts.com/font-downloads)|Some icons, others are rendered using svg|
+|[CaskaydiaCove Nerd Font](https://nerdfonts.com/font-downloads)|Terminal font|
+
+#### Dependencies
+
+| **dependency** | **utility** |
+|----------------|-------------|
+|awesomeWM|The window manager (Use the GIT version)|
+|picom|The compositor, i'm using the [Arian8j's picom fork](https://github.com/Arian8j2/picom)|
+|zsh|The shell|
+|bat|Enhanced cat|
+|rofi|Apps launcher|
+|playerctl|Remotely music management (needs to use dbus, use dbus-run-session if your session isn't started with dbus)|
+|light|Manage the brightness using the cli|
+|pulseaudio|Well, just the audio manager|
+|pactl|Manage pulseaudio using the cli|
+|starship|Prompt|
+|wezterm|Terminal|
+
+
+### Copy the configs
+
+**WARNING**: Configuration files may be overrided.
+
+```sh
+cp -r ./.config/* ~/.config
+cp -r ./.etc/* ~/.local/bin
+```
 
