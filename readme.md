@@ -20,13 +20,51 @@
 
 
 
-  
-## Programs
+<br>
 
-  - OS : Kali
-  - WM : Awesome
-  - Editor : Neovim
-  - Terminal : Westerm
-  - Shell : Zsh
-  - Launcher : Rofi
+<table align="right">
+  <tr>
+    <td align="center">
+      <sup>
+            <samp>
+                  These Dotfiles are still WIP.<br>
+                  Use it at your own risk!
+            </samp>
+      </sup>
+    </td>
+  </tr>
+
+
+
+<table>
+
+Hi there, thanks for dropping by 💙, 
+
+these are my Kali Linux and AwesomeWM configuration files.
+
+This rice uses my own colorscheme [Articblush](https://github.com/articblush/).
+
+Special thanks to [alpha](https://github.com/alphatechnolog) and [saimoomedits](https://github.com/saimoomedits).
+
+</table>
+
+<br>
+
+<br>
+
+<img src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg" width=350 align="right">
+
+
+
+| task              | name                   |
+| ----------------- | ---------------------- |
+| wm                | [awesome-git](https://github.com/awesomeWM/awesome)                                      |
+| terminal          | [wezterm](https://wezfurlong.org/wezterm/)                                      |
+| gtk theme         | [articblush](https://github.com/articblush/gtk)
+| bar               | [wibar](https://awesomewm.org/apidoc/popups_and_bars/awful.wibar.html)                   |
+| compositor        | [picom-arian8j2](https://github.com/Arian8j2/picom)                                  | 
+
+<br>
+
+
 
