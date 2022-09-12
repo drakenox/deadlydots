@@ -66,6 +66,15 @@ Special thanks to [alpha](https://github.com/alphatechnolog) and [saimoomedits](
 
 <br>
 
+
+
+
+<details close>
+    <summary><samp><b>Installation</b></samp></summary>
+
+
+<br>
+
 ## ‎ <samp>Setup</samp>
 
 ### Clone the repository
@@ -76,6 +85,16 @@ First clone the repository
 git clone -b awesomewm https://github.com/synvatto/deadlydots
 cd deadlydots
 ```
+
+<br>
+
+
+
+<details close>
+    <summary><samp><b>Requirements</b></samp></summary>
+
+
+<br>
 
 ### Requirements
 
