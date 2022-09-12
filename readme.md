@@ -14,6 +14,12 @@
 </div>
 </h1>
 
+<p align="center"> 
+  <img src="https://media.discordapp.net/attachments/987976220165697617/1018815679815753758/unknown.png?width=867&height=488">
+</p> 
+
+
+
   
 ## Programs
 
