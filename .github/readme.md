@@ -82,7 +82,7 @@ Special thanks to [alpha](https://github.com/alphatechnolog) and [saimoomedits](
 First clone the repository
 
 ```sh
-git clone -b awesomewm https://github.com/synvatto/deadlydots
+git clone -b awesomewm https://github.com/drakenox/deadlydots
 cd deadlydots
 ```
 
